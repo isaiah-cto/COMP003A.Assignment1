@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 
 namespace
-{Title: 100 Things About me
+{Title: 100 Things About me }
     internal class Program
     {
         static void Main(string[] args)
