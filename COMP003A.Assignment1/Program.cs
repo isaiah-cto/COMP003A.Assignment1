@@ -1,9 +1,11 @@
-﻿namespace COMP003A.Assignment1
-{
+﻿using System.Reflection;
+
+namespace
+{Title: 100 Things About me
     internal class Program
     {
         static void Main(string[] args)
-        {
+    { 
             Console.WriteLine("I was born in Fresno, California!");
             Console.WriteLine("I was raised in Hanford, California");
             Console.WriteLine("I am currently 20 years old");
