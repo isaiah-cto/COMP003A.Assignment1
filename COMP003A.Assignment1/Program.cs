@@ -1,12 +1,13 @@
-﻿using System.Reflection;
+﻿using Microsoft.VisualBasic;
+using System.Reflection;
 
-namespace
-{Title: 100 Things About me }
+namespace COMP003A.Assignment1;
+// Title: 100 Things About Me
     internal class Program
     {
         static void Main(string[] args)
     { 
-            Console.WriteLine("I was born in Fresno, California!");
+            Console.WriteLine("I was born in Fresno, California");
             Console.WriteLine("I was raised in Hanford, California");
             Console.WriteLine("I am currently 20 years old");
             Console.WriteLine("I was born on September, 1st, 2005");
@@ -108,4 +109,3 @@ namespace
             Console.WriteLine("I usually spend most of my time in the Library at school working on homework if I'm not in class");
         }
     }
-}
